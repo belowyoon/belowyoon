@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=15&height=100&section=header&text=Hayoon's%20GitHub&fontAlignY=50&fontAlign=50&fontSize=30&animation=fadeIn)
 <br/><br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelowyoon&count_bg=%23D6D6D6&title_bg=%23FF98B3&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbelowyoon%2Fgjbae1212%2Fhit-counter&count_bg=%23D6D6D6&title_bg=%23FF98B3&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 <h3>📚Tech Stacks📚</h3>
    
