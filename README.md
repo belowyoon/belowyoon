@@ -20,7 +20,7 @@ My major is Computer Science <br/>
 <br/><br/>
 
 <div style="align: center;">
-  <div style="display: inline-block;">
+  <div style="display: inline-block; width: 400px;">
     <h3>Tech Stacks📚</h3>
     <div>
       <img height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -44,7 +44,7 @@ My major is Computer Science <br/>
 
  
 
-<br/> <br/> <br/><br/>
+<br/> <br/> <br/> <br/>
 
 <div style="text-align: center;">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=belowyoon&show_icons=true&theme=buefy&hide=issues"/>
