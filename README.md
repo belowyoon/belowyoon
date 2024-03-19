@@ -9,6 +9,7 @@
 Hi! I am Hayoon Lee <br/>
 🏫 I am student in Konkuk University <br/>
 My major is Computer Science <br/>
+<br/>
 
 <div style="text-align: center;">
   My Blog: 
@@ -20,7 +21,6 @@ My major is Computer Science <br/>
 <br/><br/>
 
 <div style="align: center;">
-  <div style="display: inline-block; width: 400px;">
     <h3>Tech Stacks📚</h3>
     <div>
       <img height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -38,13 +38,11 @@ My major is Computer Science <br/>
       <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
-  </div>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belowyoon&layout=compact"/>
 </div>
 
  
 
-<br/> <br/> <br/> <br/>
+<br/> <br/> <br/>
 
 <div style="text-align: center;">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=belowyoon&show_icons=true&theme=buefy&hide=issues"/>
@@ -52,5 +50,7 @@ My major is Computer Science <br/>
       <img height="150px" src="http://mazassumnida.wtf/api/generate_badge?boj=hayoon0524" alt="Solved.ac 프로필">
     </a>
 </div>
+
+<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belowyoon&layout=compact"/> -->
 
 </div>
