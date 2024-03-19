@@ -7,8 +7,8 @@
 
 <h3>About Me👋</h3>
 Hi! I am Hayoon Lee <br/>
+🏫 I am student in Konkuk University  <br/>
 I am currently majoring Computer Science <br/>
-🏫 I am a student in Konkuk University
 
 <div style="text-align: center;">
   <div style="display: inline-block;">
