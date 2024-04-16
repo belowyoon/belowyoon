@@ -8,7 +8,7 @@
 <h3>About Me👋</h3>
 Hi! I am Hayoon Lee <br/>
 🏫 I am a student in Konkuk University <br/>
-My major is Computer Science <br/>
+🖥 My major is Computer Science <br/>
 <br/>
 
 <div style="text-align: center;">
@@ -21,7 +21,7 @@ My major is Computer Science <br/>
 <br/><br/>
 
 <div style="align: center;">
-    <h3>Tech Stacks📚</h3>
+    <h3>📚Tech Stacks📚</h3>
     <div>
       <img height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
